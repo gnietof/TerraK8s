@@ -1,6 +1,6 @@
 # Terraform & Kubernetes
 
-Because I did not have any Cloud where I could test Terraform agains, I created my own environment with four virtual machines: Terraform, Kubermetes controller and two Kubernetes worker nodes.
+Because I did not have any Cloud where I could test Terraform against, I created my own environment with four virtual machines: Terraform, Kubermetes controller and two Kubernetes worker nodes.
 
 I installed Terraform on one virtual machine.
 
